@@ -1,0 +1,10 @@
+157.240.199.54 http://www.oculus.com
+157.240.199.54 www2.oculus.com
+157.240.199.54 graph.oculus.com
+157.240.199.54 scontent.oculuscdn.com
+157.240.199.54 securecdn.oculus.com
+157.240.199.54 developer.oculus.com
+157.240.199.54 oculus.com
+157.240.199.54 oculuscdn.com
+157.240.199.54 oculusrift.com
+157.240.199.54 oculusvr.com
